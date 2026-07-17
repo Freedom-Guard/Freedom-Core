@@ -9,7 +9,7 @@ import (
 	"github.com/Freedom-Guard/freedom-core/pkg/updater"
 )
 
-var AppVersion = "0.2.0"
+var AppVersion = "0.13.0"
 
 func Parse() {
 	host := flag.String("host", "127.0.0.1", "Server host")
